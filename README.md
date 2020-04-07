@@ -1,6 +1,6 @@
 # UKC Grade Filter
 
-A simple Firefox extension that allows you to view grade range for a crag while not disrupting the locations.
+A simple Firefox [extension](https://addons.mozilla.org/en-US/firefox/addon/ukc-logbook-grade-filter/) that allows you to view grade range for a crag while not disrupting the locations.
 
 ![Preview](previews/ukcgradefilter.gif)
 
