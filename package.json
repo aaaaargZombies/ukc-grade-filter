@@ -1,0 +1,19 @@
+{
+	"name": "ukc-grade-filter",
+	"version": "1.0.0",
+	"description": "",
+	"private": true,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"nouislider": "^14.1.1"
+	},
+	"devDependencies": {
+		"file-loader": "^6.0.0",
+		"webpack": "^4.42.1",
+		"webpack-cli": "^3.3.11"
+	}
+}
