@@ -6,10 +6,10 @@ A simple Firefox extension that allows you to view grade range for a crag while 
 
 ## Running locally
 
-If you would like to try running locally or modifying try the following steps to get up and running.
+If you would like to try running locally or modifying try the following steps.
 
 ```
-git clone [address]
+git clone git@github.com:aaaaargZombies/ukc-grade-filter.git
 npm install
 ```
 
