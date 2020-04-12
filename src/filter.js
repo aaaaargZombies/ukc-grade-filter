@@ -21,12 +21,12 @@ const gradeHumanEyes = s =>
 		.replace(/\s+$/, "")
 		.replace(/  /g, " ");
 
-function fetchOK(url, headers) {
+const fetchOK = (url, headers) => {
 	return fetch(url, headers).then(response => {
 		if (response.status < 400) return response;
 		else throw new Error(response.statusText);
 	});
-}
+};
 
 const orderedTableRequest = async () =>
 	await fetchOK(url(), {
