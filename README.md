@@ -21,7 +21,7 @@ Install [`web-ext`](https://extensionworkshop.com/documentation/develop/getting-
 npm install --global web-ext
 ```
 
-Run webpack and web-ext
+Run `webpack` and `web-ext`
 
 ```
 npx webpack -w
